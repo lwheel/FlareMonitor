@@ -1,3 +1,11 @@
 # .gitignore
 .env
 *.env
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+.DS_Store
+
+# Don't ignore the logs folder (we want to commit dashboards)
+# logs/
