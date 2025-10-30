@@ -1059,7 +1059,7 @@ def main():
     load_dotenv()
     
     # Get token from environment variable
-    OURA_TOKEN = os.getenv('OURA_TOKEN')
+     OURA_TOKEN = os.environ.get('OURA_TOKEN')
     
     if not OURA_TOKEN:
         raise ValueError("OURA_TOKEN not found. Please set it in your .env file")
