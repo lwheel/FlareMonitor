@@ -1055,10 +1055,16 @@ def main():
     print("UCTD • POTS • Fibromyalgia • HSD • CRMO")
     print("Weather-aware • HRV Analysis • Multi-condition\n")
     
-    # ==================== YOUR SETTINGS ====================
-    OURA_TOKEN = "Z2H6HXPBHCUA3PXM7USBE36JKSDLCD2Z"
+    # Load environment variables
+    load_dotenv()
+    
+    # Get token from environment variable
+    OURA_TOKEN = os.getenv('OURA_TOKEN')
+    
+    if not OURA_TOKEN:
+        raise ValueError("OURA_TOKEN not found. Please set it in your .env file")
+    
     DAYS_BACK = 300
-    # =======================================================
     
     # Auto-detect location
     latitude, longitude = get_current_location()
