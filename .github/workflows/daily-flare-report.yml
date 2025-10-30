@@ -3,7 +3,7 @@ name: Daily Flare Report
 on:
   schedule:
     # Run at 4 PM EST (9 PM UTC) every day
-    - cron: '0 21 * * *'
+    - cron: '0 19 * * *'
   workflow_dispatch:  # Allows manual triggering
 
 permissions:
