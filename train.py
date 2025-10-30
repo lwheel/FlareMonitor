@@ -1055,8 +1055,6 @@ def main():
     print("UCTD • POTS • Fibromyalgia • HSD • CRMO")
     print("Weather-aware • HRV Analysis • Multi-condition\n")
     
-    # Load environment variables
-    load_dotenv()
     
     # Get token from environment variable
     OURA_TOKEN = os.environ.get('OURA_TOKEN')
