@@ -1,0 +1,29 @@
+RISK EVENT REPORT - Sunday, November 23, 2025 at 01:21 AM
+======================================================================
+
+✓ Risk Level Normal
+Risk Score: 35/100 (LOW)
+
+System Alerts:
+  🌧️ Weather instability signal
+  ⚡ Cardiovascular load indicator elevated
+
+Risk Factors:
+  • Barometric pressure drops (3 recent)
+  • Frequent HR spikes (186.0)
+
+Recent Trends (past 3 days):
+  ↑ readiness_score: +15.0
+  ↑ sleep_score: +20.0
+  ↑ temp_deviation: +0.2
+  ↓ pressure: -10.1
+
+Current Readings:
+  Readiness: 81/100
+  Temperature: +0.11°C
+  Pressure: 1013.1 hPa
+
+Past 30 Days: 7 likely risk-event days
+
+======================================================================
+Model trained on 294 days of data
