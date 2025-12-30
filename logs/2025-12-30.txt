@@ -1,0 +1,32 @@
+RISK EVENT REPORT - Tuesday, December 30, 2025 at 01:17 AM
+======================================================================
+
+🚨 Critical Risk Window
+Risk Score: 90/100 (HIGH)
+
+System Alerts:
+  ⚠️ Thermal load indicator elevated
+  🌧️ Weather instability signal
+  ⚡ Cardiovascular load indicator elevated
+
+Risk Factors:
+  • Low readiness (64/100)
+  • Elevated temperature (+0.38°C)
+  • Barometric pressure drops (5 recent)
+  • Frequent HR spikes (162.0)
+
+Recent Trends (past 3 days):
+  ↓ readiness_score: -5.0
+  ↑ sleep_score: +4.0
+  ↑ temp_deviation: +0.2
+  ↓ pressure: -15.3
+
+Current Readings:
+  Readiness: 64/100
+  Temperature: +0.38°C
+  Pressure: 1002.2 hPa
+
+Past 30 Days: 8 likely risk-event days
+
+======================================================================
+Model trained on 295 days of data
