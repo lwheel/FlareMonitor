@@ -1,0 +1,31 @@
+RISK EVENT REPORT - Wednesday, February 11, 2026 at 01:56 AM
+======================================================================
+
+🚨 Critical Risk Window
+Risk Score: 100/100 (HIGH)
+
+System Alerts:
+  🌧️ Weather instability signal
+  ⚡ Cardiovascular load indicator elevated
+
+Risk Factors:
+  • Low readiness (68/100)
+  • Declining readiness trend
+  • Barometric pressure drops (3 recent)
+  • Frequent HR spikes (173.0)
+  • 7 anomalous days in past 2 weeks
+
+Recent Trends (past 3 days):
+  ↓ readiness_score: -7.0
+  ↑ sleep_score: +6.0
+  ↓ temp_deviation: -0.3
+  ↓ pressure: -10.2
+
+Current Readings:
+  Readiness: 68/100
+  Pressure: 1017.1 hPa
+
+Past 30 Days: 8 likely risk-event days
+
+======================================================================
+Model trained on 295 days of data
