@@ -1,0 +1,29 @@
+RISK EVENT REPORT - Friday, May 15, 2026 at 02:41 AM
+======================================================================
+
+✓ Risk Level Normal
+Risk Score: 35/100 (LOW)
+
+System Alerts:
+  🌧️ Weather instability signal
+  ⚡ Cardiovascular load indicator elevated
+
+Risk Factors:
+  • Barometric pressure drops (1 recent)
+  • Frequent HR spikes (150.0)
+
+Recent Trends (past 3 days):
+  ↑ readiness_score: +6.0
+  ↑ sleep_score: +5.0
+  ↓ temp_deviation: -0.3
+  ↓ pressure: -11.3
+
+Current Readings:
+  Readiness: 85/100
+  Temperature: -0.03°C
+  Pressure: 1010.3 hPa
+
+Past 30 Days: 4 likely risk-event days
+
+======================================================================
+Model trained on 295 days of data
