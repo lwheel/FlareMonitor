@@ -1,0 +1,25 @@
+RISK EVENT REPORT - Sunday, May 24, 2026 at 02:48 AM
+======================================================================
+
+✓ Risk Level Normal
+Risk Score: 15/100 (LOW)
+
+System Alerts:
+  ⚡ Cardiovascular load indicator elevated
+
+Risk Factors:
+  • Frequent HR spikes (134.0)
+
+Recent Trends (past 3 days):
+  ↑ readiness_score: +26.0
+  ↑ sleep_score: +41.0
+  ↓ temp_deviation: -0.3
+
+Current Readings:
+  Readiness: 86/100
+  Temperature: +0.03°C
+
+Past 30 Days: 4 likely risk-event days
+
+======================================================================
+Model trained on 295 days of data
