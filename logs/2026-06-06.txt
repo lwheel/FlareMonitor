@@ -1,0 +1,26 @@
+RISK EVENT REPORT - Saturday, June 06, 2026 at 02:40 AM
+======================================================================
+
+✓ Risk Level Normal
+Risk Score: 20/100 (LOW)
+
+System Alerts:
+  🌧️ Weather instability signal
+
+Risk Factors:
+  • Barometric pressure drops (1 recent)
+
+Recent Trends (past 3 days):
+  ↑ readiness_score: +10.0
+  ↑ sleep_score: +21.0
+  ↑ temp_deviation: +0.1
+  ↓ pressure: -1.9
+
+Current Readings:
+  Readiness: 96/100
+  Pressure: 1020.6 hPa
+
+Past 30 Days: 4 likely risk-event days
+
+======================================================================
+Model trained on 294 days of data
