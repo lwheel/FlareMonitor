@@ -1,0 +1,31 @@
+RISK EVENT REPORT - Thursday, July 23, 2026 at 02:13 AM
+======================================================================
+
+🚨 Critical Risk Window
+Risk Score: 75/100 (HIGH)
+
+System Alerts:
+  🌧️ Weather instability signal
+  ⚡ Cardiovascular load indicator elevated
+
+Risk Factors:
+  • Declining readiness trend
+  • Barometric pressure drops (2 recent)
+  • Frequent HR spikes (76.0)
+  • 7 anomalous days in past 2 weeks
+
+Recent Trends (past 3 days):
+  ↓ readiness_score: -17.0
+  ↓ sleep_score: -25.0
+  ↑ temp_deviation: +0.2
+  ↓ pressure: -5.1
+
+Current Readings:
+  Readiness: 73/100
+  Temperature: +0.14°C
+  Pressure: 1009.5 hPa
+
+Past 30 Days: 2 likely risk-event days
+
+======================================================================
+Model trained on 294 days of data
