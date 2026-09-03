@@ -1,0 +1,29 @@
+RISK EVENT REPORT - Thursday, September 03, 2026 at 02:36 AM
+======================================================================
+
+⚡ Elevated Risk Window
+Risk Score: 45/100 (MODERATE)
+
+System Alerts:
+  ⚠️ Thermal load indicator elevated
+  ⚡ Cardiovascular load indicator elevated
+
+Risk Factors:
+  • Elevated temperature (+0.37°C)
+  • Frequent HR spikes (32.0)
+
+Recent Trends (past 3 days):
+  ↓ readiness_score: +0.0
+  ↑ sleep_score: +14.0
+  ↑ temp_deviation: +0.7
+  ↓ pressure: -1.0
+
+Current Readings:
+  Readiness: 77/100
+  Temperature: +0.37°C
+  Pressure: 1017.5 hPa
+
+Past 30 Days: 2 likely risk-event days
+
+======================================================================
+Model trained on 294 days of data
